@@ -10,9 +10,35 @@
   :root {
     --blue-color:#118AB2;
     --white-color: #ffff;
-    --green-color:#31572C
+    --green-color:#31572C;
+    --html-btn:#dd4b24;
+    --css-btn:#254bdf;
+    --bootstrap-btn:#8512f7;
+    --java-btn:#cfb42f;
   }
-  
+  .html-btn{
+    border: 1px solid var(--blue-color);
+    background-color: var(--blue-color);
+  }
+  .css-btn{
+    border: 1px solid var(--blue-color);
+    background-color: var(--blue-color);
+
+
+
+  }
+  .bootstrap-btn{
+    border: 1px solid var(--blue-color);
+    background-color: var(--blue-color);
+
+
+  }
+  .java-btn{
+    border: 1px solid var(--blue-color);
+    background-color: var(--blue-color);
+
+
+  }
   .codepro {
     border: 3px solid var(--blue-color);
     border-radius: 10px;
